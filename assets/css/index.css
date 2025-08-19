@@ -1,0 +1,17 @@
+section {
+    padding: 60px 0;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    padding: 20px 0;
+}
+
+.navbar {
+    background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+}
